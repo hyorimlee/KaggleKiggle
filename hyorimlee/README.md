@@ -1,5 +1,4 @@
 BigQuery-Geotab Intersection Congestion
 ---
-* public score : 79.3 
-* private score : 81.2
+Score : 79.3(public), 81.2(private)
 * model : linear regression
