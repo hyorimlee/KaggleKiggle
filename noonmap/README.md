@@ -1,0 +1,2 @@
+# About
+- MNIST CNN Practice
